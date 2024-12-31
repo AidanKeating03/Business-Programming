@@ -1,0 +1,9 @@
+[Server]
+server = 128.198.162.191
+username = admin
+password = secret
+
+[Settings]
+theme = dark
+typeFace = TimesNewRoman
+fontSize = 12
